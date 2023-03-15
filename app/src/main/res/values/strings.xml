@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppcomImplementação</string>
+    <string name="txtNome">Nome:</string>
+    <string name="txtNomeMsg">Digite o seu nome</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="txtEndMsg">Digite o seu endereço</string>
+    <string name="txtBairMsg">Digite o seu Bairro</string>
+    <string name="txtCepMsg">Digite o seu Cep</string>
+    <string name="txtCidaMsg">Digite o seu Cidade</string>
+    <string name="txtEstdMsg">Digite o seu Estado</string>
+
+</resources>
